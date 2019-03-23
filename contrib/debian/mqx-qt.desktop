@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=mqx
+Comment=mqx P2P Cryptocurrency
+Comment[fr]=mqx, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=mqx, eşten eşe kriptografik sanal para birimi
+Exec=mqx-qt %u
+Terminal=false
+Type=Application
+Icon=mqx128
+MimeType=x-scheme-handler/mqx;
+Categories=Office;Finance;
