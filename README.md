@@ -1,4 +1,4 @@
-# MQX Core ![alt text](https://github.com/WG91/MirQuiX-core/blob/master/share/pixmaps/bitcoin16.png)
+# MQX Core ![alt text](https://mirquix.org/mirquix1png.png)
 
 ### MQX is a fork of [SSX](https://github.com/stakeshare-core/stakeshare) that forked [PIVX](https://github.com/PIVX-Project/PIVX) that forked [Dash](https://github.com/dashpay/dash) that forked [Bitcoin](https://github.com/bitcoin/bitcoin)
 
